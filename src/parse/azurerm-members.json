@@ -442,6 +442,8 @@
         "azurerm_healthcare_medtech_service_fhir_destination",
         "azurerm_healthcare_service",
         "azurerm_healthcare_workspace",
+        "azurerm_horizondb_cluster",
+        "azurerm_horizondb_firewall_rule",
         "azurerm_image",
         "azurerm_iot_security_device_group",
         "azurerm_iot_security_solution",
